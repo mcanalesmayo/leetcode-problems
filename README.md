@@ -11,3 +11,4 @@ So far:
 | [Two Sum](easy/two-sum) | 89.19% | 15th Dec 2018 |
 | [Add Two Numbers](medium/add-two-numbers) | 99.53% | 15th Dec 2018 |
 | [String to Integer (atoi)](medium/string-to-integer-atoi) | 98.49% | 15th Dec 2018 |
+| [Length of Longest Substring](medium/length-of-longest-substring) | 71.73% | 30th Dec 2018 |
