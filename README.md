@@ -12,3 +12,4 @@ So far:
 | [Add Two Numbers](medium/add-two-numbers) | Medium | 99.53% | 15th Dec 2018 |
 | [String to Integer (atoi)](medium/string-to-integer-atoi) | Medium | 98.49% | 15th Dec 2018 |
 | [Length of Longest Substring](medium/length-of-longest-substring) | Medium | 71.73% | 30th Dec 2018 |
+| [Container With Most Water](medium/container-with-most-water) | Medium | 100% | 1st Jan 2019 |
