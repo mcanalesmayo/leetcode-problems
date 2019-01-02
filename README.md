@@ -14,3 +14,4 @@ So far:
 | [Length of Longest Substring](medium/length-of-longest-substring) | Medium | 71.73% | 30th Dec 2018 |
 | [Container With Most Water](medium/container-with-most-water) | Medium | 100% | 1st Jan 2019 |
 | [Merge k Sorted Lists](hard/merge-k-sorted-lists) | Hard | 51.93% | 1st Jan 2019 |
+| [Validate Binary Search Tree](medium/validate-binary-search-tree) | Medium | 100% | 2nd Jan 2019 |
