@@ -31,6 +31,7 @@ var isValidBST = function(root) {
         return bRes;
     }
     
+    // Check against invalid or empty params
     if (root && root.val !== null) {
         return isValidBSTrec(root, Number.NEGATIVE_INFINITY, Number.POSITIVE_INFINITY);
     } else {
