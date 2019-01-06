@@ -15,3 +15,4 @@ So far:
 | [Container With Most Water](medium/container-with-most-water) | Medium | 100% | 1st Jan 2019 |
 | [Merge k Sorted Lists](hard/merge-k-sorted-lists) | Hard | 51.93% | 1st Jan 2019 |
 | [Validate Binary Search Tree](medium/validate-binary-search-tree) | Medium | 100% | 2nd Jan 2019 |
+| [Swap Nodes in Pairs](medium/swap-nodes-in-pairs) | Medium | 55.66% | 6th Jan 2019 |
