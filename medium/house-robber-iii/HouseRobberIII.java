@@ -8,8 +8,6 @@
  * }
  */
 class Solution {
-    private HashMap<TreeNode, Integer> memo = new HashMap<TreeNode, Integer>();
-
     public int rob(TreeNode root) {
         int[] max = recRob(root);
         return Math.max(max[0], max[1]);
