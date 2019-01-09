@@ -18,3 +18,4 @@ So far:
 | [Swap Nodes in Pairs](medium/swap-nodes-in-pairs) | Medium | 55.66% | 6th Jan 2019 |
 | [House Robber III](medium/house-robber-iii) | Medium | 79.68% | 7th Jan 2019 |
 | [Letter Combinations of a Phone Number](medium/letter-combinations-of-a-phone-number) | Medium | 89.07% | 8th Jan 2019 |
+| [Validate Stack Sequences](medium/validate-stack-sequences) | Medium | 86.87% | 9th Jan 2019 |
