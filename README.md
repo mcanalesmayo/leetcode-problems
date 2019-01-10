@@ -19,3 +19,4 @@ So far:
 | [House Robber III](medium/house-robber-iii) | Medium | 79.68% | 7th Jan 2019 |
 | [Letter Combinations of a Phone Number](medium/letter-combinations-of-a-phone-number) | Medium | 89.07% | 8th Jan 2019 |
 | [Validate Stack Sequences](medium/validate-stack-sequences) | Medium | 86.87% | 9th Jan 2019 |
+| [Binary Tree Inorder Traversal](medium/binary-tree-inorder-traversal) | Medium | NA | 10th Jan 2019 |
