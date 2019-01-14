@@ -11,7 +11,7 @@ So far:
 | [Two Sum](easy/two-sum) | Easy | 89.19% | 15th Dec 2018 |
 | [Add Two Numbers](medium/add-two-numbers) | Medium | 99.53% | 15th Dec 2018 |
 | [String to Integer (atoi)](medium/string-to-integer-atoi) | Medium | 98.49% | 15th Dec 2018 |
-| [Length of Longest Substring](medium/length-of-longest-substring) | Medium | 71.73% | 30th Dec 2018 |
+| [Length of Longest Substring](medium/length-of-longest-substring) | Medium | 79.48% | 30th Dec 2018 |
 | [Container With Most Water](medium/container-with-most-water) | Medium | 100% | 1st Jan 2019 |
 | [Merge k Sorted Lists](hard/merge-k-sorted-lists) | Hard | 67.07% | 1st Jan 2019 |
 | [Validate Binary Search Tree](medium/validate-binary-search-tree) | Medium | 100% | 2nd Jan 2019 |
