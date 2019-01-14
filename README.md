@@ -18,6 +18,6 @@ So far:
 | [Swap Nodes in Pairs](medium/swap-nodes-in-pairs) | Medium | 55.66% | 6th Jan 2019 |
 | [House Robber III](medium/house-robber-iii) | Medium | 99.77% | 7th Jan 2019 |
 | [Letter Combinations of a Phone Number](medium/letter-combinations-of-a-phone-number) | Medium | 92.47% | 8th Jan 2019 |
-| [Validate Stack Sequences](medium/validate-stack-sequences) | Medium | 86.87% | 9th Jan 2019 |
+| [Validate Stack Sequences](medium/validate-stack-sequences) | Medium | 100% | 9th Jan 2019 |
 | [Binary Tree Inorder Traversal](medium/binary-tree-inorder-traversal) | Medium | 16.41% | 10th Jan 2019 |
 | [Sum Root to Leaf Numbers](medium/sum-root-to-leaf-numbers) | Medium | 16.67% | 14th Jan 2019 |
