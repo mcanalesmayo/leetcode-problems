@@ -25,4 +25,4 @@ So far:
 | [Set Matrix Zeroes](medium/set-matrix-zeroes) | Medium | 39.51% | 17th Jan 2019 |
 | [Lexicographical Numbers](medium/lexicographical-numbers) | Medium | 63.16% | 18th Jan 2019 |
 | [Check Completeness of a Binary Tree](medium/check-completeness-of-a-binary-tree) | Medium | 95.57% | 19th Jan 2019 |
-| [Top K Frequent Element](medium/top-k-frequent-elements) | Medium | 93.76% | 23rd Jan 2019 | 
+| [Top K Frequent Element](medium/top-k-frequent-elements) | Medium | 99.13% | 23rd Jan 2019 |

@@ -1,17 +1,10 @@
 class Solution {
     
-    static class IntDescendingComparator implements Comparator<Map.Entry<Integer, Integer>> {
-        @Override
-        public int compare(Map.Entry<Integer, Integer> a, Map.Entry<Integer, Integer> b) {
-            return a.getValue() - b.getValue();
-        }
-    }
-    
     public List<Integer> topKFrequent(int[] nums, int k) {
         final List<Integer> res = new ArrayList<Integer>(k);
-
+        final List<Integer>[] frequencies = new List[nums.length+1];
         final Map<Integer, Integer> map = new HashMap<Integer, Integer>();
-        final PriorityQueue<Map.Entry<Integer, Integer>> minHeap = new PriorityQueue<Map.Entry<Integer, Integer>>(k, new IntDescendingComparator());
+        
         Integer val;
         for (int i = 0; i < nums.length; i++) {
             val = map.get(nums[i]);
@@ -22,18 +15,34 @@ class Solution {
             }
         }
 
+        Integer freq;
         for (final Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            if (minHeap.size() < k) {
-                minHeap.offer(entry);
-            } else if (minHeap.peek().getValue() < entry.getValue()) {
-                minHeap.poll();
-                minHeap.offer(entry);
+            freq = entry.getValue();
+            if (frequencies[freq] == null) {
+                frequencies[freq] = new LinkedList<Integer>();
+            }
+            frequencies[freq].add(entry.getKey());
+        }
+        
+        int freqSize;
+        for (int i = frequencies.length - 1; i >= 1; i--) {
+            if (frequencies[i] != null) {
+                freqSize = frequencies[i].size();
+                if (freqSize <= k) {
+                    res.addAll(frequencies[i]);
+                    k -= freqSize;
+                } else {
+                    final Iterator<Integer> it = frequencies[i].iterator();
+                    // No need to check for it.hasNext, as at this point it's guaranteed
+                    // it has at most the same number of elements as `k`
+                    for (int j = 0; j < k; j++) {
+                        res.add(it.next());
+                    }
+                    break;
+                }
             }
         }
         
-        for (int i = 0; i < k; i++) {
-            res.add(minHeap.poll().getKey());
-        }
         return res;
     }
 }
