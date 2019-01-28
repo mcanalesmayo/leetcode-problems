@@ -28,3 +28,4 @@ So far:
 | [Top K Frequent Element](medium/top-k-frequent-elements) | Medium | 99.13% | 23rd Jan 2019 |
 | [Two Sum IV - Input is a BST](easy/two-sum-iv-input-is-a-bst) | Easy | 91.37% | 24th Jan 2019 |
 | [Flood Fill](easy/flood-fill) | Easy | 100% | 28th Jan 2019 |
+| [Intersection of Two Arrays II](easy/intersection-of-two-arrays-ii) | Easy | 83.87% | 28th Jan 2019 |
