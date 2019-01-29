@@ -31,4 +31,4 @@ So far:
 | [Intersection of Two Arrays II](easy/intersection-of-two-arrays-ii) | Easy | 83.87% | 28th Jan 2019 |
 | [Shifting Letters](medium/shifting-letters) | Medium | 95.56% | 29th Jan 2019 |
 | [Find Largest Value in Each Tree Row](medium/find-largest-value-in-each-tree-row) | Medium | 100% | 29th Jan 2019 |
-| [Maximum Depth of N-ary Tree](easy-maximum-depth-of-n-ary-tree) | Easy | 100% | 29th Jan 2019 |
+| [Maximum Depth of N-ary Tree](easy/maximum-depth-of-n-ary-tree) | Easy | 100% | 29th Jan 2019 |
