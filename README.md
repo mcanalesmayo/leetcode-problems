@@ -33,3 +33,4 @@ So far:
 | [Find Largest Value in Each Tree Row](medium/find-largest-value-in-each-tree-row) | Medium | 100% | 29th Jan 2019 |
 | [Maximum Depth of N-ary Tree](easy/maximum-depth-of-n-ary-tree) | Easy | 100% | 29th Jan 2019 |
 | [Delete Operation for Two Strings](medium/delete-operation-for-two-strings) | Medium | 80.82% | 29th Jan 2019 |
+| [Max Increase to Keep City Skyline](medium/max-increase-to-keep-city-skyline) | Medium | 100% | 30th Jan 2019 |
