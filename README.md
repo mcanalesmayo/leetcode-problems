@@ -34,4 +34,4 @@ So far:
 | [Maximum Depth of N-ary Tree](easy/maximum-depth-of-n-ary-tree) | Easy | 100% | NA | 29th Jan 2019 |
 | [Delete Operation for Two Strings](medium/delete-operation-for-two-strings) | Medium | 80.82% | NA | 29th Jan 2019 |
 | [Max Increase to Keep City Skyline](medium/max-increase-to-keep-city-skyline) | Medium | 100% | NA | 30th Jan 2019 |
-| [4 Sum II](medium/4sum-ii) | Medium | 17.65% | 16.67% | 2nd Feb 2019 |
+| [4 Sum II](medium/4sum-ii) | Medium | 70.59% | 50% | 2nd Feb 2019 |
