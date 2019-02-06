@@ -36,3 +36,4 @@ So far:
 | [Max Increase to Keep City Skyline](medium/max-increase-to-keep-city-skyline) | Medium | 100% | NA | 30th Jan 2019 |
 | [4 Sum II](medium/4sum-ii) | Medium | 70.59% | 50% | 2nd Feb 2019 |
 | [Reverse Words in a String III](easy/reverse-words-in-a-string-iii) | Easy | 36.11% | 44.44% | 3rd Feb 2019 |
+| [Partition List](medium/partition-list) | Medium | 100% | 41.04% | 6th Feb 2019 |
