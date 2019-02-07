@@ -37,3 +37,4 @@ So far:
 | [4 Sum II](medium/4sum-ii) | Medium | 70.59% | 50% | 2nd Feb 2019 |
 | [Reverse Words in a String III](easy/reverse-words-in-a-string-iii) | Easy | 36.11% | 44.44% | 3rd Feb 2019 |
 | [Partition List](medium/partition-list) | Medium | 100% | 41.04% | 6th Feb 2019 |
+| [Remove Linked List Elements](easy/remove-linked-list-elements) | Easy | 100% | 22.13% | 7th Feb 2019 |
