@@ -38,3 +38,4 @@ So far:
 | [Reverse Words in a String III](easy/reverse-words-in-a-string-iii) | Easy | 36.11% | 44.44% | 3rd Feb 2019 |
 | [Partition List](medium/partition-list) | Medium | 100% | 41.04% | 6th Feb 2019 |
 | [Remove Linked List Elements](easy/remove-linked-list-elements) | Easy | 100% | 22.13% | 7th Feb 2019 |
+| [Longest Palindrome](easy/longest-palindrome) | Easy | 22.90% | 14.85% | 7th Feb 2019 |
