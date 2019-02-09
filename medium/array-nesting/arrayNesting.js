@@ -6,7 +6,7 @@ var arrayNesting = function(nums) {
     // The problem can be considered as finding the longest path in a graph
     // which is represented by the input array
     
-    if (nums.length <= 2) {
+    if (nums.length <= 1) {
         return nums.length;
     }
     
