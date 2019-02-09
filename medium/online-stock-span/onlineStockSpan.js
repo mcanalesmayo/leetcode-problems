@@ -11,11 +11,7 @@ var StockSpanner = function() {
 StockSpanner.prototype.next = function(price) {
     let res = 1;
     
-    for (let i = this.day; i >= 0; i--) {
-        if (this.history[i] > price) {
-            break;
-        }
-        
+    for (let i = this.day; i >= 0 && this.history[i] <= price; i--) {
         res++;
     }
     
