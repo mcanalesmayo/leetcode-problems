@@ -40,4 +40,4 @@ So far:
 | [Remove Linked List Elements](easy/remove-linked-list-elements) | Easy | 100% | 22.13% | 7th Feb 2019 |
 | [Longest Palindrome](easy/longest-palindrome) | Easy | 22.90% | 14.85% | 7th Feb 2019 |
 | [Online Stock Span](medium/online-stock-span) | Medium | 25.35% | 100% | 9th Feb 2019 |
-| [Array Nesting](medium/array-nesting) | Medium | 44.57% | 17.86% | 9th Feb 2019 |
+| [Array Nesting](medium/array-nesting) | Medium | 52.17% | 17.86% | 9th Feb 2019 |
