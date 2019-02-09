@@ -39,4 +39,4 @@ So far:
 | [Partition List](medium/partition-list) | Medium | 100% | 41.04% | 6th Feb 2019 |
 | [Remove Linked List Elements](easy/remove-linked-list-elements) | Easy | 100% | 22.13% | 7th Feb 2019 |
 | [Longest Palindrome](easy/longest-palindrome) | Easy | 22.90% | 14.85% | 7th Feb 2019 |
-| [Online Stock Span](medium/online-stock-span) | Medium | 4.22% | 50% | 9th Feb 2019 |
+| [Online Stock Span](medium/online-stock-span) | Medium | 25.35% | 100% | 9th Feb 2019 |

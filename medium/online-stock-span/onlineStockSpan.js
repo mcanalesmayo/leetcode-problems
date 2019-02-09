@@ -1,7 +1,7 @@
 
 var StockSpanner = function() {
     this.history = [];
-    this.day = -1;
+    this.day = 0;
 };
 
 /** 
@@ -9,14 +9,29 @@ var StockSpanner = function() {
  * @return {number}
  */
 StockSpanner.prototype.next = function(price) {
-    let res = 1;
-    
-    for (let i = this.day; i >= 0 && this.history[i] <= price; i--) {
-        res++;
-    }
+    let res;
     
     this.day++;
-    this.history[this.day] = price;
+    if (this.history.length > 0) {
+        let curr;
+        do {
+            curr = this.history.pop();
+        } while (this.history.length > 0 && curr.price <= price);
+        
+        if (curr.price > price) {
+            // There's a highest price before
+            this.history.push(curr);
+            res = this.day - curr.day;
+        } else {
+            // This is the highest price ever reached
+            res = this.day;
+        }
+    } else {
+        // First price ever added
+        res = 1;
+    }
+        
+    this.history.push({ price: price, day: this.day });
     
     return res;
 };
