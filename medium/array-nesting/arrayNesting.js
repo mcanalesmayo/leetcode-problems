@@ -13,7 +13,7 @@ var arrayNesting = function(nums) {
     let max = 0;
 
     // Will keep track of visited nodes
-    let visitedNodes = {}, visitedNodesCount = 0;
+    let visitedNodes = new Array(nums.length), visitedNodesCount = 0;
     function recLongestGraphPath(vertex, nodesCounter) {
         if (visitedNodes[vertex]) {
             return nodesCounter;
