@@ -24,8 +24,7 @@ var arrayNesting = function(nums) {
         return recLongestGraphPath(nums[vertex], nodesCounter + 1);
     }
 
-    // Make sure all paths are explored, but avoid exploring more paths if max is
-    // greater than (N - nodes to visit)
+    // Avoid exploring more paths if max is greater than (N - nodes to visit)
     for (let i = 0; i < nums.length && max <= nums.length - visitedNodesCount; i++) {
         max = Math.max(max, recLongestGraphPath(i, 0));
     }
