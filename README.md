@@ -42,3 +42,4 @@ So far:
 | [Online Stock Span](medium/online-stock-span) | Medium | 25.35% | 100% | 9th Feb 2019 |
 | [Array Nesting](medium/array-nesting) | Medium | 52.17% | 17.86% | 9th Feb 2019 |
 | [Find Pivot Index](easy/find-pivot-index) | Easy | 51.72% | 31.58% | 10th Feb 2019 |
+| [Reshape the Matrix](easy/reshape-the-matrix) | Easy | 30.45% | 24.66% | 11th Feb 2019 |
