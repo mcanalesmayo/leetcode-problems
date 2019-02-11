@@ -13,7 +13,7 @@ var matrixReshape = function(nums, r, c) {
     let outputMat = Array(r).fill(null).map(() => Array(c));
     
     let inR = 0, inC = 0, outR = 0, outC = 0;
-    for (let nIdx = 0; nIdx < outputLen; nIdx++) {
+    while (outputLen > 0) {
         outputMat[outR][outC] = nums[inR][inC];
         inC = (inC + 1) % numsC;
         if (inC === 0) {
@@ -23,6 +23,8 @@ var matrixReshape = function(nums, r, c) {
         if (outC === 0) {
             outR = (outR + 1) % r;
         }
+        
+        outputLen--;
     }
     
     return outputMat;
