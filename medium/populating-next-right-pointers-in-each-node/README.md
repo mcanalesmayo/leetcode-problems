@@ -1,6 +1,6 @@
 # Populating Next Right Pointers in Each Node
 
-[Problem description](medium/populating-next-right-pointers-in-each-node)
+[Problem description](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description)
 
 # Result
 
