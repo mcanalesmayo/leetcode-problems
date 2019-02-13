@@ -43,6 +43,7 @@ So far:
 | [Array Nesting](medium/array-nesting) | Medium | 52.17% | 17.86% | 9th Feb 2019 |
 | [Find Pivot Index](easy/find-pivot-index) | Easy | 51.72% | 31.58% | 10th Feb 2019 |
 | [Reshape the Matrix](easy/reshape-the-matrix) | Easy | 30.45% | 24.66% | 11th Feb 2019 |
-| [Populating Next Right Pointers in Each Node](medium/populating-next-right-pointers-in-each-node) | Medium | 39.13% | 0.97% | 12th Feb 2019 |
-| [Number of Islands](medium/number-of-islands) | Medium | 44.34% | 0.80% | 12th Feb 2019 |
-| [Hamming Distance](easy/hamming-distance) | Easy | 36.91% | 0.95% | 13th Feb 2019 |
+| [Populating Next Right Pointers in Each Node](medium/populating-next-right-pointers-in-each-node) | Medium | 39.13% | 0.97% (Probably a bug) | 12th Feb 2019 |
+| [Number of Islands](medium/number-of-islands) | Medium | 44.34% | 0.80% (Probably a bug) | 12th Feb 2019 |
+| [Hamming Distance](easy/hamming-distance) | Easy | 36.91% | 0.95% (Probably a bug) | 13th Feb 2019 |
+| [Path Sum II](medium/path-sum-ii) | Medium | 63.14% | 0.66% (Probably a bug) | 13th Feb 2019 |
