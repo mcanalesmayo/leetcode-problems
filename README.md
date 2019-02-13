@@ -45,3 +45,4 @@ So far:
 | [Reshape the Matrix](easy/reshape-the-matrix) | Easy | 30.45% | 24.66% | 11th Feb 2019 |
 | [Populating Next Right Pointers in Each Node](medium/populating-next-right-pointers-in-each-node) | Medium | 39.13% | 0.97% | 12th Feb 2019 |
 | [Number of Islands](medium/number-of-islands) | Medium | 44.34% | 0.80% | 12th Feb 2019 |
+| [Hamming Distance](easy/hamming-distance) | Easy | 36.91% | 0.95% | 13th Feb 2019 |
