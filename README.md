@@ -47,3 +47,4 @@ So far:
 | [Number of Islands](medium/number-of-islands) | Medium | 44.34% | 0.80% (Probably a bug) | 12th Feb 2019 |
 | [Hamming Distance](easy/hamming-distance) | Easy | 36.91% | 0.95% (Probably a bug) | 13th Feb 2019 |
 | [Path Sum II](medium/path-sum-ii) | Medium | 63.14% | 0.66% (Probably a bug) | 13th Feb 2019 |
+| [Longest Increasing Subsequence](medium/longest-increasing-subsequence) | Medium | 28.57% | 100% | 14th Feb 2019 |
