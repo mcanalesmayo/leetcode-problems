@@ -49,3 +49,4 @@ So far:
 | [Path Sum II](medium/path-sum-ii) | Medium | 63.14% | 100% (Bug) | 13th Feb 2019 |
 | [Longest Increasing Subsequence](medium/longest-increasing-subsequence) | Medium | 28.57% | 100% (Bug) | 14th Feb 2019 |
 | [Average of Levels in Binary Tree](easy/average-of-levels-in-binary-tree) | Easy | 15.17% | 100% (Bug) | 15th Feb 2019 |
+| [Is Subsequence](medium/is-subsequence) | Medium | 61.49% | 100% (Bug) | 15th Feb 2019 |
