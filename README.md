@@ -52,3 +52,4 @@ So far:
 | [Is Subsequence](medium/is-subsequence) | Medium | 61.49% | 100% (Bug) | 15th Feb 2019 |
 | [Maximum Length of Repeated Subarray](medium/maximum-length-of-repeated-subarray) | Medium | 53.45% | 100% (Bug) | 16th Feb 2019 |
 | [Jewels and Stones](easy/jewels-and-stones) | Easy | 38.64% | 100% (Bug) | 16th Feb 2019 |
+| [Maximum Depth of Binary Tree](easy/maximum-depth-of-binary-tree) | Easy | 46.14% | 100% (Bug) | 18th Feb 2019 |
