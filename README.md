@@ -57,3 +57,4 @@ So far:
 | [Reverse String](easy/reverse-string) | Easy | 40.40% | 100% (Bug) | 18th Feb 2019 |
 | [Largest Number](medium/largest-number) | Medium | 92.39% | 100% (Bug) | 18th Feb 2019 |
 | [Valid Anagram](easy/valid-anagram) | Easy | 63.83% | 100% (Bug) | 19th Feb 2019 |
+| [First Unique Character in a String](easy/first-unique-character-in-a-string) | Easy | 54.50% | 100% (Bug) | 19th Feb 2019 |
