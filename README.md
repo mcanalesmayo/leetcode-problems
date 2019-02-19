@@ -56,3 +56,4 @@ So far:
 | [Counting Bits](medium/counting-bits) | Medium | 66.67% | 100% (Bug) | 18th Feb 2019 |
 | [Reverse String](easy/reverse-string) | Easy | 40.40% | 100% (Bug) | 18th Feb 2019 |
 | [Largest Number](medium/largest-number) | Medium | 92.39% | 100% (Bug) | 18th Feb 2019 |
+| [Valid Anagram](easy/valid-anagram) | Easy | 63.83% | 100% (Bug) | 19th Feb 2019 |
