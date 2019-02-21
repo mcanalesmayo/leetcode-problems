@@ -59,3 +59,4 @@ So far:
 | [Valid Anagram](easy/valid-anagram) | Easy | 63.83% | 100% (Bug) | 19th Feb 2019 |
 | [First Unique Character in a String](easy/first-unique-character-in-a-string) | Easy | 54.50% | 100% (Bug) | 19th Feb 2019 |
 | [Sort Characters by Frequency](medium/sort-characters-by-frequency) | Medium | 13.94% | 6.25% | 20th Feb 2019 |
+| [Group Anagrams](medium/group-anagrams) | Medium | 59.57% | 41.82% | 21th Feb 2019 |
