@@ -61,3 +61,4 @@ So far:
 | [Sort Characters by Frequency](medium/sort-characters-by-frequency) | Medium | 13.94% | 6.25% | 20th Feb 2019 |
 | [Group Anagrams](medium/group-anagrams) | Medium | 59.57% | 41.82% | 21st Feb 2019 |
 | [Symmetric Tree](easy/symmetric-tree) | Easy | 54.50% | 70% | 21st Feb 2019 |
+| [Longest Univalue Path](easy/longest-univalue-path) | Easy | 63.41% | 94.12% | 23rd Feb 2019 |
