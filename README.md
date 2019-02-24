@@ -62,3 +62,4 @@ So far:
 | [Group Anagrams](medium/group-anagrams) | Medium | 59.57% | 41.82% | 21st Feb 2019 |
 | [Symmetric Tree](easy/symmetric-tree) | Easy | 54.50% | 70% | 21st Feb 2019 |
 | [Longest Univalue Path](easy/longest-univalue-path) | Easy | 63.41% | 94.12% | 23rd Feb 2019 |
+| [Kth Smallest Element in a BST](medium/kth-smallest-element-in-a-bst) | Medium | 88.03% | 74.07% | 24th Feb 2019 |
