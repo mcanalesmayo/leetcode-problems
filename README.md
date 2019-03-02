@@ -67,3 +67,4 @@ So far:
 | [Max Area of Island](medium/max-area-of-island) | Medium | 69.11% | 52.38% | 25th Feb 2019 |
 | [Product of Array Except Self](medium/product-of-array-except-self) | Medium | 100% | 81.63% | 26th Feb 2019 |
 | [Remove Nth Node From End of List](medium/remove-nth-node-from-end-of-list) | Medium | 58.41% | 20.91% | 27th Feb 2019 |
+| [Course Schedule](medium/course-schedule) | Medium | Failed | Failed | 2nd March 2019 |
