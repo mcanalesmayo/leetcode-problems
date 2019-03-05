@@ -67,5 +67,6 @@ So far:
 | [Max Area of Island](medium/max-area-of-island) | Medium | 69.11% | 52.38% | 25th Feb 2019 |
 | [Product of Array Except Self](medium/product-of-array-except-self) | Medium | 100% | 81.63% | 26th Feb 2019 |
 | [Remove Nth Node From End of List](medium/remove-nth-node-from-end-of-list) | Medium | 58.41% | 20.91% | 27th Feb 2019 |
-| [Course Schedule](medium/course-schedule) | Medium | Failed in last test case | Failed in last test case | 2nd March 2019 |
-| [Combination Sum II](medium/combination-sum-ii) | Medium | TLE | TLE | 4th March 2019 |
+| [Course Schedule](medium/course-schedule) | Medium | Failed in last test case | Failed in last test case | 2nd Mar 2019 |
+| [Combination Sum II](medium/combination-sum-ii) | Medium | TLE | TLE | 4th Mar 2019 |
+| [Linked List Cycle](easy/linked-list-cycle) | Easy | 61.44% | 97.11% | 5th Mar 2019 |
