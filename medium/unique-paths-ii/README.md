@@ -5,4 +5,5 @@
 # Result
 
 ![result_runtime](result_runtime.png)
-![result_space](result_space.png)
+![result_space1](result_space1.png)
+![result_space2](result_space2.png)
