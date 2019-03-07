@@ -72,3 +72,4 @@ So far:
 | [Linked List Cycle](easy/linked-list-cycle) | Easy | 61.44% | 97.11% | 5th Mar 2019 |
 | [Linked List Cycle II](medium/linked-list-cycle-ii) | Medium | 50.55% | 60.53% | 5th Mar 2019 |
 | [Sliding Window Maximum](hard/sliding-window-maximum) | Hard | 94.10% | 100% | 6th Mar 2019 |
+| [Unique Paths](medium/unique-paths) | Medium | 88.69% | 95.52% | 7th Mar 2019 |
