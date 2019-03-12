@@ -78,3 +78,4 @@ So far:
 | [Search a 2D Matrix](medium/search-a-2d-matrix) | Medium | 79.63% | 33.33% | 9th Mar 2019 |
 | [Single Number](easy/single-number) | Easy | 92.41% | 73.63% | 10th Mar 2019 |
 | [K Closest Points to Origin](medium/k-closest-points-to-origin) | Medium | 72.51% | 66.38% | 11th Mar 2019 |
+| [Missing Number](easy/missing-number) | Easy | 89.63% | 73.33% | 12th Mar 2019 |
