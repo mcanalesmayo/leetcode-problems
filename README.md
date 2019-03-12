@@ -79,3 +79,4 @@ So far:
 | [Single Number](easy/single-number) | Easy | 92.41% | 73.63% | 10th Mar 2019 |
 | [K Closest Points to Origin](medium/k-closest-points-to-origin) | Medium | 72.51% | 66.38% | 11th Mar 2019 |
 | [Missing Number](easy/missing-number) | Easy | 89.63% | 73.33% | 12th Mar 2019 |
+| [Move Zeroes](easy/move-zeroes) | Easy | 93.69% | 86.28% | 12th Mar 2019 |
