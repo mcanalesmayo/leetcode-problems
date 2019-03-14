@@ -81,3 +81,4 @@ So far:
 | [Missing Number](easy/missing-number) | Easy | 89.63% | 73.33% | 12th Mar 2019 |
 | [Move Zeroes](easy/move-zeroes) | Easy | 93.69% | 86.28% | 12th Mar 2019 |
 | [Monotonic Array](easy/monotonic-array) | Easy | 97.26% | 76.67% | 13th Mar 2019 |
+| [Word Pattern](easy/word-pattern) | Easy | 83.61% | 47.37% | 14th Mar 2019 |
