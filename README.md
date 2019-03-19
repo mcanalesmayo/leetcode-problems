@@ -84,3 +84,4 @@ So far:
 | [Word Pattern](easy/word-pattern) | Easy | 83.61% | 47.37% | 14th Mar 2019 |
 | [Binary Search Tree Iterator](medium/binary-search-tree-iterator) | Medium | 78.99% | 92.86% | 16th Mar 2019 |
 | [Add One Row to Tree](medium/add-one-row-to-tree) | Medium | 94.00% | 100% | 17th Mar 2019 |
+| [Ransom Note](easy/ransom-note) | Easy | 93.08% | 90.48% | 19th Mar 2019 |
