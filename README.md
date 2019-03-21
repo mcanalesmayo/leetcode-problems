@@ -86,3 +86,4 @@ So far:
 | [Add One Row to Tree](medium/add-one-row-to-tree) | Medium | 94.00% | 100% | 17th Mar 2019 |
 | [Ransom Note](easy/ransom-note) | Easy | 93.08% | 90.48% | 19th Mar 2019 |
 | [Target Sum](medium/target-sum) | Medium | 62.34% | 100% | 20th Mar 2019 |
+| [Valid Parentheses](easy/valid-parentheses) | Easy | 92.41% | 65.45% | 21st Mar 2019 |
